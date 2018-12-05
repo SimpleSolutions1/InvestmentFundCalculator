@@ -1,0 +1,2 @@
+# InvestmentFundCalculator
+Implementation of investmentFundCalculator
